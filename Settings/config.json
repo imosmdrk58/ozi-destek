@@ -1,0 +1,33 @@
+{
+    "BotToken":"",
+    "OwnerID":"939107266580332554",
+    "prefix": ["."],
+
+    "BotVoiceChannel":"",
+    "Activity": [
+    "Canlı Destek İçin; .destek",
+    "Başvurular İçin .başvuru",
+    "Öneri/Şikayetler için DM",
+    ".destek İçin Bota DM"
+    ],
+    "Footer":"Yetkili Alım",
+    "Color":"Black",
+   
+    "green":"<a:green:945814446905892945>",
+    "red":"<a:red:945814442870988860>",
+    "star":"<a:yldz:948338936143564900>",
+    "çizgi":"<a:cizg:948338781252091974>",
+
+    "EnAltYetkiliRoleID":"945760985694761039",
+    "TagRoleID":"945760985560522773",
+    "YetkiliAlımRoleID": "945760985782841394",
+    "VerilecekYetkiliRolleriID": ["945760985719914590","945760985694761039","945760985707339841","945760985707339843","945760985707339844"],
+    "EveryoneRoleID":"923331950779990087",
+
+    "BaşvuruKategoryID":"945760987376648256",
+    "BasvuruKomutKullanımKanalı":"945760987376648257",
+    "BaşvuruDurumLog": "945760987376648258",
+    "BaşvuruLogChannelID":"945760987376648259",
+    "ÖneriİstekChannelID":"945760987376648260",
+    "SikayetChannelID":"945760987376648260"
+}
